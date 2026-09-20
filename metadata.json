@@ -1,0 +1,6 @@
+{
+  "name": "SaRa",
+  "description": "SaRa - Your friendly anime AI guide and companion for learning, coding, creating and exploring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
